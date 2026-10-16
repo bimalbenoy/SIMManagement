@@ -1,0 +1,15 @@
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+appsettings.Development.json
+secrets.json
+
+# .NET generated files
+**/bin/
+**/obj/
+.vs/
+
+# IDE files
+*.user
+*.suo

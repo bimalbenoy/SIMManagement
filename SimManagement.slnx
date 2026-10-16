@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="SimManagement.Api/SimManagement.Api.csproj" />
+  <Project Path="SimManagement.Application/SimManagement.Application.csproj" />
+  <Project Path="SimManagement.Core/SimManagement.Core.csproj" />
+  <Project Path="SimManagement.Infrastructure/SimManagement.Infrastructure.csproj" />
+  <Project Path="SimManagement.SyncWorker/SimManagement.SyncWorker.csproj" />
+</Solution>
